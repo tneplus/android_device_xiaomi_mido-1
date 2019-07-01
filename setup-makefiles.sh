@@ -18,10 +18,10 @@
 
 set -e
 
-INITIAL_COPYRIGHT_YEAR=2017
+INITIAL_COPYRIGHT_YEAR=2019
 
 # Required!
-export DEVICE=mido
+export DEVICE=oxygen
 export DEVICE_COMMON=msm8953-common
 export VENDOR=xiaomi
 
